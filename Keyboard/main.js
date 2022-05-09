@@ -23,7 +23,7 @@ window.addEventListener('keydown', function(e) {
             keys[i].classList.add('active')
         }
         if(e.code == 'Space') {
-            spaceKey.classList.add('active')
+            spaceKey.classList.add('active') 
         }
         if(e.code == 'ShiftLeft') {
             shift_right.classList.remove('active')
