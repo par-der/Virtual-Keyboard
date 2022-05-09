@@ -28,7 +28,7 @@ body{
     order: 2;
 }
 
-.row {
+.row { 
     display: flex;
 }
 
